@@ -1,12 +1,22 @@
 # FlashType
 A Typing Game Made Using Scratch
+Game Functionalities:
+
+![Slide1](https://github.com/SumaitaB/FlashType/assets/51522304/c685da68-fa14-4255-9267-826f204798ef)
+![Slide2](https://github.com/SumaitaB/FlashType/assets/51522304/3317b318-746b-45db-99d2-42bb671fc534)
+![Slide3](https://github.com/SumaitaB/FlashType/assets/51522304/593507b4-5fcd-4e47-beec-94fbcb2061a2)
+![Slide4](https://github.com/SumaitaB/FlashType/assets/51522304/60b08960-e5ce-4d9f-a45d-1dfe8aea94b7)
+![Slide5](https://github.com/SumaitaB/FlashType/assets/51522304/d213f740-9538-443b-955e-11e79607414b)
+![Slide6](https://github.com/SumaitaB/FlashType/assets/51522304/e65b03a5-9bdb-43b8-9a91-b011b20243b9)
+![Slide7](https://github.com/SumaitaB/FlashType/assets/51522304/ed5e4605-587f-4304-aac5-3d1d1a7610ab)
+
 Screenshots:
-![Screenshot (70)](https://github.com/SumaitaB/FlashType/assets/51522304/9b8321b0-829e-4d53-aa7a-9f219ab84565)
-![Screenshot (71)](https://github.com/SumaitaB/FlashType/assets/51522304/06aa3ed8-f199-419e-aaac-af2b2b830c69)
-![Screenshot (72)](https://github.com/SumaitaB/FlashType/assets/51522304/554e46fa-509e-4287-8951-f8280ceaaee7)
-![Screenshot (73)](https://github.com/SumaitaB/FlashType/assets/51522304/6f573b94-cae9-4ec6-93ac-c374c7f345ce)
-![Screenshot (74)](https://github.com/SumaitaB/FlashType/assets/51522304/d8f00762-7c3e-4cf0-976f-39c9c621db07)
-![Screenshot (79)](https://github.com/SumaitaB/FlashType/assets/51522304/9ef24aaf-9ff2-4e41-967f-415e845db83c)
-![Screenshot (80)](https://github.com/SumaitaB/FlashType/assets/51522304/a8218757-bf53-4583-a2d0-fd441a097093)
-![Screenshot (81)](https://github.com/SumaitaB/FlashType/assets/51522304/0cb9ec64-c11b-4590-b8a9-b6a249c64d5b)
-![Screenshot (89)](https://github.com/SumaitaB/FlashType/assets/51522304/d7aec61d-0363-4627-8112-d2f483784c13)
+![flash](https://github.com/SumaitaB/FlashType/assets/51522304/534b821f-2ff9-4a68-a791-34ba661ecfd7)
+![22](https://github.com/SumaitaB/FlashType/assets/51522304/b0abc8c7-2f07-442f-bc1d-0d082bf08b63)
+![Screenshot (74)](https://github.com/SumaitaB/FlashType/assets/51522304/30d17120-1e21-48f4-b347-95832267712b)
+![Screenshot (79)](https://github.com/SumaitaB/FlashType/assets/51522304/17fab346-6e66-44e9-9885-18db61e069f7)
+![Screenshot (80)](https://github.com/SumaitaB/FlashType/assets/51522304/2698ba49-2c77-433b-b94a-46268dbac36d)
+
+
+
+
