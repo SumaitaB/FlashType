@@ -1,5 +1,5 @@
 # FlashType
-<h4>A Typing Game Made Using Scratch</h4>
+## A Typing Game Made Using Scratch
 
 Game Functionalities:
 
