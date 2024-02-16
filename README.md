@@ -11,7 +11,7 @@
 ![Slide6](https://github.com/SumaitaB/FlashType/assets/51522304/e65b03a5-9bdb-43b8-9a91-b011b20243b9)
 ![Slide7](https://github.com/SumaitaB/FlashType/assets/51522304/ed5e4605-587f-4304-aac5-3d1d1a7610ab)
 
-<h1>Screenshots:</h1>
+## Screenshots:
 
 
 ![flash](https://github.com/SumaitaB/FlashType/assets/51522304/534b821f-2ff9-4a68-a791-34ba661ecfd7)
