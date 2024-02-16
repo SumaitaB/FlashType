@@ -1,7 +1,7 @@
 # FlashType
 ## A Typing Game Made Using Scratch
 
-Game Functionalities:
+### Game Functionalities:
 
 ![Slide1](https://github.com/SumaitaB/FlashType/assets/51522304/c685da68-fa14-4255-9267-826f204798ef)
 ![Slide2](https://github.com/SumaitaB/FlashType/assets/51522304/3317b318-746b-45db-99d2-42bb671fc534)
